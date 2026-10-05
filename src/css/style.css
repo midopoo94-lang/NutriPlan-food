@@ -1,0 +1,6 @@
+.loading {
+  display:none
+}
+.force-show-sidebar {
+    transform: translateX(0%) !important;
+}
